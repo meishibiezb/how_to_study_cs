@@ -30,7 +30,7 @@ features:
   - title: 特性 A
     details: 测试文本
   - title: 特性 B
-    details: 测试文本
+    details: ↑↓←→~~~~
   - title: 特性 C
     details: 我只是来凑数的~~~
 ---
