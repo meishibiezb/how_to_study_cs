@@ -1,5 +1,5 @@
 {
-  "name": "my-blog",
+  "name": "how-to-study-cs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,7 +12,6 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "element-plus": "^2.10.3",
     "vue": "^3.5.17"
   },
   "devDependencies": {
