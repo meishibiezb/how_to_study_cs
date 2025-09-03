@@ -1,5 +1,3 @@
-import { zhCn } from 'element-plus/es/locales.mjs'
-import { tr } from 'element-plus/lib/locale/index.js'
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
@@ -19,7 +17,7 @@ export default defineConfig({
         nav: [
             { text: '主页', link: '/index' },
             { text: '正文', link: '/start' },
-            { text: '博客', link: 'meishibiezb.xyz' }
+            { text: '博客', link: 'https://meishibiezb.xyz/' }
         ],
         socialLinks: [
             { icon: 'bilibili', link: 'https://www.bilibili.com/' },
