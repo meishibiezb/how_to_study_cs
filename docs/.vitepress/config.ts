@@ -68,6 +68,10 @@ export default defineConfig({
                     }
                 }
             }
+        },
+        docFooter: {
+            prev: '前一页',
+            next: '后一页'
         }
     }
 })
