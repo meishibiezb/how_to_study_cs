@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: 'How To Study CS',
     description: 'A Document About How To Study CS',
-    head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+    head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
     lang: 'zh-CN',
     base: '/doc/',
     ignoreDeadLinks: true,
