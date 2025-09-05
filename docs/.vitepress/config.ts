@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: 'How To Study CS',
     description: 'A Document About How To Study CS',
-    head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+    head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
     lang: 'zh-CN',
     base: '/doc/',
     ignoreDeadLinks: true,
@@ -34,7 +34,7 @@ export default defineConfig({
                         text: '学习资源', items: [
                             { text: '课程资源', link: '/courses-resources' },
                             { text: '软件资源', link: '/software-resources' },
-                            { text: '使用工具', link: 'utility-tools' }
+                            { text: '实用工具', link: 'utility-tools' }
                         ]
                     },
                     { text: '关于', link: '/about'}
@@ -68,6 +68,10 @@ export default defineConfig({
                     }
                 }
             }
+        },
+        docFooter: {
+            prev: '前一页',
+            next: '后一页'
         }
     }
 })
