@@ -89,7 +89,7 @@ const upMasters = [
     title: '山东财经大学数学老师',
     desc: '2023百大UP主<br/>山东财经大学数学老师、bilibili课堂优质讲师。专注数学教学，用生动有趣的方式讲解数学知识。',
     links: [
-      { icon: 'bilibili', link: 'https://space.bilibili.com/9458053' }
+      { icon: 'bilibili', link: 'https://space.bilibili.com/66607740' }
     ]
   }
 ]
