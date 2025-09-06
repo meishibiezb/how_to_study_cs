@@ -25,3 +25,11 @@ dist-ssr
 
 # customized
 /docs/.vitepress/cache/*
+
+
+# Claude
+.claude
+CLAUDE.md
+
+# Direnv
+.direnv
