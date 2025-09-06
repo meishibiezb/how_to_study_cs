@@ -84,8 +84,8 @@ const upMasters = [
     ]
   },
   {
-    avatar: '../avatars/宋昊.webp',
-    name: '宋昊',
+    avatar: '../avatars/宋浩.webp',
+    name: '宋浩',
     title: '山东财经大学数学老师',
     desc: '2023百大UP主<br/>山东财经大学数学老师、bilibili课堂优质讲师。专注数学教学，用生动有趣的方式讲解数学知识。',
     links: [
