@@ -23,5 +23,14 @@ dist-ssr
 *.sln
 *.sw?
 
-# customized
-/docs/.vitepress/cache/*
+# VitePress
+docs/.vitepress/cache
+docs/.vitepress/cache/deps
+
+
+# Claude
+.claude
+CLAUDE.md
+
+# Direnv
+.direnv

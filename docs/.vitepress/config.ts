@@ -32,9 +32,9 @@ export default defineConfig({
                     { text: '学习路径', link: '/study-path' },
                     {
                         text: '学习资源', items: [
-                            { text: '课程资源', link: '/courses-resources' },
-                            { text: '软件资源', link: '/software-resources' },
-                            { text: '实用工具', link: 'utility-tools' }
+                            { text: '课程资源', link: '/learning-resource/courses-resources' },
+                            { text: '软件资源', link: '/learning-resource/software-resources' },
+                            { text: '实用工具', link: '/learning-resource/utility-tools' }
                         ]
                     },
                     { text: '关于', link: '/about'}
