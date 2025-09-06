@@ -73,7 +73,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const upMasters = [
   {
-    avatar: './avatars/3b1b.webp',
+    avatar: '../avatars/3b1b.webp',
     name: '3Blue1Brown',
     title: '可视化数学科普频道',
     desc: 'YouTube千万订阅频道<br/>Grant Sanderson创建，曾任职Khan Academy。通过自研Manim动画引擎，深入浅出地分享数学之美。',
@@ -84,7 +84,7 @@ const upMasters = [
     ]
   },
   {
-    avatar: './avatars/宋昊.webp',
+    avatar: '../avatars/宋昊.webp',
     name: '宋昊',
     title: '山东财经大学数学老师',
     desc: '2023百大UP主<br/>山东财经大学数学老师、bilibili课堂优质讲师。专注数学教学，用生动有趣的方式讲解数学知识。',
